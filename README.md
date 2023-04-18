@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Pronouns: He/Him
+### I’m currently working on Re-Sonho de festa
+### 
 
 <!--
 **Davi5000/Davi5000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
